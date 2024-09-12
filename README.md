@@ -1,0 +1,2 @@
+Les consignes d'utilisation de notre Application
+C'est une application qui nous permet de faire certaines animations en suivant les événements suivant: - Il nous affiche le rectangle au milieu de la page en vert quand on fait un seul click - Il incline le box sur le coté quand on double clique - Quand on passe la souris dessus, il pousse le tableau à droite à 180px; - Il met le rectangle en rouge et en cercle quand on clique sur une touche - Il réduit la taille du rectangle en le mettant en carré quand on délaisse le click droit
