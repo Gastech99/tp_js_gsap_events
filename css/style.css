@@ -1,0 +1,23 @@
+section {
+    height: 300px;
+    width: 400px;
+    background: blue;
+}
+
+p {
+    color: white;
+}
+
+.double {
+    height: 100px;
+    width: 150px;
+    background: white;
+    display: flex;
+}
+
+div .mouse {
+    border-radius: 50%;
+    color: orangered;
+}
+
+
